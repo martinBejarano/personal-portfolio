@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Escritorio" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314.65 314.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #111;
+      }
+    </style>
+  </defs>
+  <path d="M191.74,28.27l-34.42,59.61L122.91,28.27H8.3L157.33,286.39,306.35,28.27h-114.61Z"/>
+  <path class="cls-1" d="M191.74,28.27l-34.42,59.61L122.91,28.27h-55l89.41,154.87L246.74,28.27h-55Z"/>
+</svg>
